@@ -5,5 +5,5 @@
 # Imagem ilustrativa do desenvolvimento e criação de uma nft:
 <img src="Captura de tela_19-7-2024_233610_opensea.io.jpeg">
 
-## Atenção: Arte 100% totalmente autoral.
-## Obs: No momento este repositório está em desenvolvimento.
+## Atenção: Arte 100% autoral.
+
